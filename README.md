@@ -1,1 +1,3 @@
-React.js Tic Tac Toe.
+* npm start
+
+tic tac toe game build in react js to understood the concept of reactjs.
